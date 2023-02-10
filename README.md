@@ -29,4 +29,4 @@ deepConvert(chain, value)
 [Ilyass Mabrouk](https://github.com/work-state)
 
 ## License
-[MIT](https://github.com/work-state/deep-string-to-object/blob/master/LICENSE.md)
+[MIT](https://github.com/work-state/deep-string-to-object/blob/master/LICENSE)
