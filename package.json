@@ -1,0 +1,51 @@
+{
+  "version": "0.0.0",
+  "author": "Ilyass Mabrouk",
+  "license": "MIT",
+  "name": "deep-string-to-object",
+  "description": "Convert a string separated by dots into a JavaScript object.",
+  "homepage": "https://github.com/work-state/deep-string-to-object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/work-state/deep-string-to-object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/work-state/deep-string-to-object/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "object",
+    "objects",
+    "nested",
+    "deep",
+    "deeper",
+    "convert",
+    "string",
+    "dots",
+    "dot"
+  ],
+  "verb": {
+    "tasks": [
+      "readme"
+    ],
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
